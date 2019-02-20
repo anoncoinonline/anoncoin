@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "name": "Official Node №1",
+      "url": "node1.anoncoin.tech",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Official Node №2",
+      "url": "node2.anoncoin.tech",
+      "port": 11898,
+      "ssl": false
+    }
+  ]
+}
