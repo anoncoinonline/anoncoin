@@ -1,4 +1,4 @@
-![image](https://github.com/anoncoinonline/turtlecoin/blob/development/src/Wallet/anoncoin.png)
+![image](https://github.com/anoncoinonline/anontech-wallet-go/blob/master/anontech.png)
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/turtlecoin?branch=master&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
